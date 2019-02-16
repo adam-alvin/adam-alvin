@@ -18,9 +18,9 @@ categories: HTML ProcessJS
 
 **遊戲畫面：**
 
-![遊戲主畫面]({{site.baseurl}}images/WinstonNOhnoes_home.png){:width="400px" :margin-bottom="10px"}
-![對戰畫面]({{site.baseurl}}images/WinstonNOhnoes_playground.png){:width="400px" :margin-bottom="10px"}
-![結束畫面]({{site.baseurl}}images/WinstonNOhnoes_end.png){:width="400px :margin-bottom="10px"}
+![遊戲主畫面]({{site.baseurl}}/images/WinstonNOhnoes_home.png){:width="400px" :margin-bottom="10px"}
+![對戰畫面]({{site.baseurl}}/images/WinstonNOhnoes_playground.png){:width="400px" :margin-bottom="10px"}
+![結束畫面]({{site.baseurl}}/images/WinstonNOhnoes_end.png){:width="400px :margin-bottom="10px"}
 
 **遊戲玩法：**
 - 按下Start之後，會進入遊戲畫面。上方會顯示目前是哪個玩家的回合。同時也列出玩家還沒下過的棋子。
