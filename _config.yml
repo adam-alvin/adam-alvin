@@ -17,8 +17,8 @@ title: Adam & Alvin's Fun Lab
 email: adam.iem92g@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A SECRET PLACE FOR FUN PROJECTS
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://shincar.github.iog" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blogs" # the subpath of your site, e.g. /blog
+url: "https://adam-alvin.github.iog" # the base hostname & protocol for your site, e.g. http://example.com
 # url: "http://localhost:4000" # test url
 twitter_username: 
 github_username:  
