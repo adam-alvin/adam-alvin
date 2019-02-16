@@ -10,7 +10,7 @@ First, pick a palette from [Paletton][paletton]. It's really convenient for user
 
 I'm really not a art-man. So I decide to not only use the pallete from Paletton, but also learn how to layout a website. Plus what I learned from Khan Academy, I know how to view source of a page. You could put "view-source:http://paletton.com/examples/webpage/index-white.html" in URL bar of chrome browser to know how the example page named each block of a site, e.g. header, menu, content, and footer...,etc. I'm going to take a snapshot of my current site and you could compare later when I make CSS work. 
 
-![Original Blog Appearance]({{site.baseurl}}images/OriginalStyle.png){:width="400px"}
+![Original Blog Appearance]({{site.baseurl}}/images/OriginalStyle.png){:width="400px"}
 
 Now, it looks better. Probably could be improved after I learn more. Stay tuned.
 
